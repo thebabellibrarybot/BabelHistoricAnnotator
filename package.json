@@ -56,19 +56,23 @@
     "@storybook/addon-links": "^7.0.17",
     "@storybook/addons": "^7.0.17",
     "@storybook/react": "^7.0.17",
+    "@types/node": "^20.2.5",
     "@types/react": "^18.2.7",
     "@types/react-dom": "^18.2.4",
     "babel-loader": "^9.1.2",
+    "css-loader": "^6.8.1",
     "husky": "^8.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-is": "^18.2.0",
     "size-limit": "^8.2.4",
+    "style-loader": "^3.3.3",
     "tsdx": "^0.14.1",
     "tslib": "^2.5.2",
     "typescript": "^5.0.4"
   },
   "dependencies": {
-    "@babelbots/babelbot-demo": "^0.1.0"
+    "@babelbots/babelbot-demo": "^0.1.0",
+    "react-icons": "^4.9.0"
   }
 }
